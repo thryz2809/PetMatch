@@ -328,7 +328,7 @@ Selecione cada fluxo abaixo para expandir e visualizar o respectivo diagrama de 
 
 | <span style="color: #6D28D9;">Integrante</span> | <span style="color: #6D28D9;">Atuação</span> |
 | :---: | :---: |
-| **Geovanna Beathryz Amorim Paiva** | Modelagem UML e Documentação do Software |
+| **Giovanna Beatriz Amorim Paiva** | Modelagem UML e Documentação do Software |
 
 <br>
 
