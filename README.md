@@ -314,27 +314,32 @@ Selecione cada fluxo abaixo para expandir e visualizar o respectivo diagrama de 
 ### 3.3. Diagramas de Atividades
 
 <details open>
-  <summary><strong>Diagrama de Atividades — Fluxo Geral do Sistema</strong></summary>
-  <br>
-  <div align="center">
+<summary><strong>Diagrama de Atividades — Fluxo Geral do Sistema</strong></summary>
+
+<div align="center">
     <img src="docs/diagramas/atividades.png" alt="Diagrama de Atividades do PetMatch" width="95%" />
-  </div>
-  <br>
+</div>
+
 </details>
 
-## Integrantes
+---
 
 <div align="center">
 
-| <span style="color: #6D28D9;">Integrante</span> | <span style="color: #6D28D9;">Atuação</span> |
-| :---: | :---: |
-| **Giovanna Beatriz Amorim Paiva** | Modelagem UML e Documentação do Software |
+## Integrantes
+
+<p>
+  <strong>Geovanna Beathryz Amorim Paiva</strong><br>
+  <span style="color: #7C3AED;">Engenharia de Software — UFAM / ICET</span><br>
+  <span style="color: #6D28D9;">Modelagem UML e Documentação do Software</span>
+</p>
 
 <br>
 
-<span style="color: #7C3AED;">*Documentação elaborada a partir do Documento de Requisitos e Modelagem do PetMatch.*</span>
+<span style="color: #8B5CF6;"><em>Documentação elaborada a partir do Documento de Requisitos e Modelagem do PetMatch.</em></span>
 
 </div>
+
 ---
 
 <div align="center">
