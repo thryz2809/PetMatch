@@ -327,10 +327,8 @@ Selecione cada fluxo abaixo para expandir e visualizar o respectivo diagrama de 
 <div align="center">
 
 | Integrante | Curso / Instituição |
-| :--- | :--- |
-| **Ana Vitória Farias Barroso** | Engenharia de Software — UFAM / ICET |
+| :--- | :--- ||
 | **Geovanna Beathryz Amorim Paiva** | Engenharia de Software — UFAM / ICET |
-| **Jucilla Kétura Souza Sousa** | Engenharia de Software — UFAM / ICET |
 
 <br>
 
