@@ -1,0 +1,3 @@
+As imagens desta pasta correspondem aos diagramas UML do documento de requisitos do PetMatch.
+Mantenha esta pasta e os nomes dos arquivos ao enviar o README.md para o GitHub, pois os caminhos
+relativos das imagens são utilizados no README.
