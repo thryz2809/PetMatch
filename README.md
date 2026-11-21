@@ -326,18 +326,15 @@ Selecione cada fluxo abaixo para expandir e visualizar o respectivo diagrama de 
 
 <div align="center">
 
-| Integrante | Curso / Instituição |
-| :--- | :--- |
-| **Ana Vitória Farias Barroso** | Engenharia de Software — UFAM / ICET |
-| **Geovanna Beathryz Amorim Paiva** | Engenharia de Software — UFAM / ICET |
-| **Jucilla Kétura Souza Sousa** | Engenharia de Software — UFAM / ICET |
+| <span style="color: #6D28D9;">Integrante</span> | <span style="color: #6D28D9;">Atuação</span> |
+| :---: | :---: |
+| **Geovanna Beathryz Amorim Paiva** | Modelagem UML e Documentação do Software |
 
 <br>
 
-*Documentação elaborada a partir do Documento de Requisitos e Modelagem do PetMatch.*
+<span style="color: #7C3AED;">*Documentação elaborada a partir do Documento de Requisitos e Modelagem do PetMatch.*</span>
 
 </div>
-
 ---
 
 <div align="center">
